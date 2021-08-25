@@ -1,5 +1,11 @@
 ### Hola 👋
 
+- 🗣 Pronouns: she/her
+- 💬 [LinkedIn](https://www.linkedin.com/in/andrey-bermudez-83318220b/)
+- 🧑‍🏫 I’m currently learning ... React 
+- 🎼 Bachelor of Music (Universidad de las Americas Puebla)
+- 🧑‍💻 Front-End Engineering Certification (anticipated completion: **November 2021**)
+
 <h3>Skills</h3> 
 <table>
      <tr>
