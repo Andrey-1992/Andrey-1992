@@ -1,8 +1,6 @@
 ### Introduction
 
-Hola 🖐🏼 my name is Andrey Bermduez, I am a software developer and natural problem-solver driven by an enthusiasm for learning new things.
-
-I really like explore new tech stacks and build cool projects with them!
+Hola 🖐🏼 my name is Andrey Bermduez, I am a software developer and natural problem-solver driven by an enthusiasm for learning new things. I really like explore new tech stacks and build cool projects with them!
 
 Prior to involving myself with code, I was involved with education and music composition 🎼 
                                                 
