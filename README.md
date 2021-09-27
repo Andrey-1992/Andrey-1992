@@ -1,8 +1,9 @@
 ### Introduction
 
-Hola 🖐🏼 my name is Andrey Bermduez, I am a software developer and natural problem-solver driven by an enthusiasm for learning new things. I really like explore new tech stacks and build cool projects with them!
+Hola 🖐🏼 my name is Andrey Bermudez, I am a software developer and natural problem-solver driven by an enthusiasm for the opportunity to incorporate artistic ideas into logical structures.
+Besides, I enjoy explore new tech stacks and build cool projects with them!
 
-Prior to involving myself with code, I was involved in education and music composition 🎼 
+Before involving myself with code, I was involved in education and music composition 🎼
                                                 
   <p>
       <a href="https://www.linkedin.com/in/andrey-bermudez-83318220b/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
